@@ -40,13 +40,6 @@ This project is a **Next.js** application that displays real-time orderbooks for
 - Built with **Tailwind CSS**
 - Fully responsive on desktop, tablet, and mobile
 
-### ⚙️ Tech Stack
-- **Next.js 14**
-- **Tailwind CSS**
-- **Recharts** (for charts)
-- **React Hook Form** + **Yup** (for form handling and validation)
-- WebSocket API integration for real-time updates
-
 ---
 ## 🛠️ Tech Stack
 ```
